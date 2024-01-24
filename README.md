@@ -1,0 +1,3 @@
+This is an app created that was developed on the front and back end side that allows users to better organize their time, tasks, and events. It has features such as a journal function for users to write daily entries. There is also a to do task list where users can satisfyingly check off the tasks they completed throughout their day. Lastly there is also a calendar button for users to plan out their days effectively.
+
+I got the inspiration to make this app as I loved all of Apple's organization apps including the calendar, notes, and reminders which I used quite frequently and realized it would be more effective if it were combined into one app. Starting with this initial idea, I moved forward adding different features and continuously testing them for updates.
